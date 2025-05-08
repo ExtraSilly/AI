@@ -47,4 +47,4 @@ Bước 6: Kích hoạt API Key
 Gemini sẽ yêu cầu bạn xác nhận qua email để kích hoạt API Key.
 
 Kiểm tra email của bạn và bấm vào link xác nhận.
-
+Bước 7: Tạo file .env GEMINI_API_KEY="your_api_key" truyền api vào để có thể chạy
